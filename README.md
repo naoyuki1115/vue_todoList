@@ -1,15 +1,17 @@
 # vue-todo-app
 
-## Project setup
+## Project setup （プロジェクト実行に必要な依存関係のインストール）
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development （起動）
 ```
 npm run serve
 ```
 
+
+-------この下はとりあえず使わない-----
 ### Compiles and minifies for production
 ```
 npm run build
